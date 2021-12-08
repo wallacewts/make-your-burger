@@ -31,7 +31,6 @@ export default {
   }
 
   .main-container {
-    margin: 3rem;
     min-height: 15.5rem;
   }
 
